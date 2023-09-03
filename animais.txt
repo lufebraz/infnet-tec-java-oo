@@ -1,0 +1,14 @@
+Nome: Leão
+Idade: 5
+Tipo: Mamífero
+Pelo: Pelagem curta
+
+Nome: Águia
+Idade: 3
+Tipo: Ave
+Envergadura das Asas: 180
+
+Nome: Peixe-palhaço
+Idade: 2
+Tipo: Peixe
+Barbatana: Barbatana laranja
